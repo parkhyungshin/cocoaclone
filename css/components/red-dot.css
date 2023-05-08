@@ -1,0 +1,12 @@
+.red-dot {
+    display: flex;
+    background-color: tomato;
+    width: 5px;
+    height: 5px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    position: absolute;
+    right: -6px;
+    bottom: 22px;
+}
